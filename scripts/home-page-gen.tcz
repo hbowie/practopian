@@ -1,0 +1,27 @@
+module	action	modifier	object	value
+
+<!-- PHASE 6: GENERATE HTML CONTENT FOR EXPLORE PAGES -->
+
+<!-- Generate Home Page featuring most recent content additions -->
+<!-- Output: ../../../../../../Sites/practopian/index.html                                  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear
+sort	add	Descending	Date
+sort	add	Ascending	Section
+sort	add	Ascending	Title
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Section	Core
+filter	add	not equal to	Section	Intro
+filter	add	not equal to	Section	Links
+filter	add	not equal to	Section	News
+filter	add	not equal to	Section	Perspective
+filter	add	not equal to	Section	Quotes
+filter	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/home_template.html
+template	generate

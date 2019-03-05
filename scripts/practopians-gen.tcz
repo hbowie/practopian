@@ -1,0 +1,812 @@
+module	action	modifier	object	value
+
+<!-- PHASE 1: BUILD GENERATED DOCUMENTS -->
+
+<!-- Generate Mission Statement         -->
+<!-- Output: ../content/core/Mission.md -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	clear
+sort	set		params
+sort	add	Ascending	Seq
+sort	set		params
+filter	add	equals	Type	Mission
+filter	set		params
+template	open	text		#PATH#../factory/mission_template.md
+template	generate
+
+<!-- Generate List of Principles           -->
+<!-- Output: ../content/core/Principles.md -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	add	Ascending	Seq
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	equals	Type	Principle
+filter	set		params
+template	open	text		#PATH#../factory/principles_template.md
+template	generate
+
+<!-- Generate List of Values            -->
+<!-- Output: ../content/core/Values.md  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	add	Ascending	Seq
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	equals	Type	Value
+filter	set		params
+template	open	text		#PATH#../factory/values_template.md
+template	generate
+
+<!-- Generate Creed Content from beliefs              -->
+<!-- Output: ../../content/creed/practopian-creed.md  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	add	Ascending	Seq
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Type	Clarification
+filter	add	not equal to	Type	Issue
+filter	set		params
+template	open	text		#PATH#../factory/creed/creed_content_gen.md
+template	generate
+
+<!-- Generate Way Content from beliefs              -->
+<!-- Output: ../../content/way/practopian-way.md  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/beliefs/
+sort	add	Ascending	Seq
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Type	Clarification
+filter	add	not equal to	Type	Issue
+filter	set		params
+template	open	text		#PATH#../factory/way/way_content_gen.md
+template	generate
+
+<!-- Generate Creed Pages -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/creed/
+template	open	text		#PATH#../factory/creed/creed_template.md
+template	generate
+template	open	text		#PATH#../factory/creed/creed_template.html
+template	generate
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/creed/creed_index_template.html
+template	generate
+filter	add	contains	Status	Current
+filter	set		params
+template	open	text		#PATH#../factory/creed/creed_current_template.md
+template	generate
+template	open	text		#PATH#../factory/creed/creed_current_template.html
+template	generate
+template	open	text		#PATH#../factory/creed/creed_core_template.html
+template	generate
+
+<!-- Generate Way Pages -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/way/
+template	open	text		#PATH#../factory/way/way_template.md
+template	generate
+template	open	text		#PATH#../factory/way/way_template.html
+template	generate
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/way/way_index_template.html
+template	generate
+filter	add	contains	Status	Current
+filter	set		params
+template	open	text		#PATH#../factory/way/way_current_template.md
+template	generate
+template	open	text		#PATH#../factory/way/way_current_template.html
+template	generate
+template	open	text		#PATH#../factory/way/way_core_template.html
+template	generate
+
+<!-- Generate Abridged Creed                      -->
+<!-- Output "../../../../../../../Sites/practopian/creed/abridged-creed.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../content/beliefs/
+sort	add	Ascending	Seq
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/creed/abridged_template.html
+template	generate
+
+<!-- Generate Abridged Way                      -->
+<!-- Output "../../way/abridged-way.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../content/beliefs/
+sort	add	Ascending	Seq
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/way/abridged_way_template.html
+template	generate
+
+<!-- Generate Developmental Levels include -->
+<!-- Output ../includes/devlevs.html       -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../content/dev levels/
+sort	add	Ascending	Seq
+sort	set		params
+template	open	text		#PATH#../factory/devlevs_template.html
+template	generate
+
+<!-- Generate Core Clusters Page             -->
+<!-- Output ../content/core/Core Clusters.md -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-general		#PATH#../content/beliefs/
+filter	clear
+filter	set		params
+filter	add	not equal to	Group
+filter	set		params
+sort	add	Ascending	Grp-Seq
+sort	set		params
+template	open	text		#PATH#../factory/core-clusters-template.md
+template	generate
+
+<!-- PHASE 2: CONVERT MARKDOWN TO HTML -->
+
+<!-- Generate html content for intro section    -->
+<!-- Output: ../../html/intro/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/intro/
+template	open	text		#PATH#../factory/intro/intro_body_template.html
+template	generate
+
+<!-- Generate html content for core section    -->
+<!-- Output: ../../html/core/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/core/
+template	open	text		#PATH#../factory/core/core_body_template.html
+template	generate
+
+<!-- Generate html content for issues section                -->
+<!-- Output: ../../html/issues/=$issue&f$=/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/issues/
+template	open	text		#PATH#../factory/issues/issue_body_template.html
+template	generate
+
+<!-- Generate html content for basics section    -->
+<!-- Output: ../../html/basics/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/basics/
+template	open	text		#PATH#../factory/basics/basics_body_template.html
+template	generate
+
+<!-- Generate html content for blog section              -->
+<!-- Output: ../../../html/blog/hbowie/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/blog/hbowie/
+template	open	text		#PATH#../factory/blog/hbowie/blog_hbowie_body_template.html
+template	generate
+
+<!-- Generate html content for appreciation section              -->
+<!-- Output: ../../../html/appreciation/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/appreciation/
+template	open	text		#PATH#../factory/appreciation/appreciation_body_template.html
+template	generate
+
+<!-- Generate html content for news section    -->
+<!-- Output: ../../html/news/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/news/
+template	open	text		#PATH#../factory/news/news_body_template.html
+template	generate
+
+<!-- Generate html content for links section    -->
+<!-- Output: ../../html/links/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/links/
+template	open	text		#PATH#../factory/links/link_body_template.html
+template	generate
+
+<!-- Generate html content for follow section    -->
+<!-- Output: ../../html/follow/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/follow/
+template	open	text		#PATH#../factory/follow/follow_body_template.html
+template	generate
+
+<!-- Generate html content for creed section    -->
+<!-- Output: ../../html/creed/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/creed/
+template	open	text		#PATH#../factory/creed/creed_body_template.html
+template	generate
+
+<!-- Generate html content for way section    -->
+<!-- Output: ../../html/way/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/way/
+template	open	text		#PATH#../factory/way/way_body_template.html
+template	generate
+
+<!-- Generate html content for perspectives section    -->
+<!-- Output: ../../html/perspective-web/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	open	notenik+		#PATH#../content/perspective/
+template	open	text		#PATH#../factory/perspective/perspective_body_template.html
+template	generate
+
+<!-- Generate html content for tags pages    -->
+<!-- Output: ../../html/tags/=$tag&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	true
+input	open	notenik-defined		#PATH#../content/beliefs/
+filter	clear
+filter	set		params
+filter	add	not equal to	Tag
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	Ascending	Tag
+sort	add	Ascending	Title
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/tags/beliefs_to_tags_body_template.html
+template	generate
+
+<!-- PHASE 3: BUILD A COMBINED FEED LISTING ALL CONTENT -->
+
+<!-- Generate Content feed in a standard format -->
+<!-- Output: ../feed/content-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+template	open	text		#PATH#../factory/content-feed_template.txt
+template	generate
+
+<!-- Generate Quotes feed in a standard format -->
+<!-- Output: ../feed/quotes-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+template	open	text		#PATH#../factory/quotes-feed_template.txt
+template	generate
+
+<!-- Generate News feed in a standard format -->
+<!-- Output: ../feed/news-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/news/
+template	open	text		#PATH#../factory/news-feed_template.txt
+template	generate
+
+<!-- Generate Links feed in a standard format -->
+<!-- Output: ../feed/links-feed.txt.          -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+template	open	text		#PATH#../factory/links-feed_template.txt
+template	generate
+
+<!-- Generate Basics feed in a standard format -->
+<!-- Output: ../feed/basics-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/basics/
+template	open	text		#PATH#../factory/basics-feed_template.txt
+template	generate
+
+<!-- Generate appreciation feed in a standard format -->
+<!-- Output: ../feed/appreciation-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/appreciation/
+template	open	text		#PATH#../factory/appreciation-feed_template.txt
+template	generate
+
+<!-- Generate perspective feed in a standard format  -->
+<!-- Output: ../feed/perspective-feed.txt           -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/perspective/
+template	open	text		#PATH#../factory/perspective-feed_template.txt
+template	generate
+
+<!-- Merge and create a Consolidated Feed -->
+<!-- Output: ../feed/combined-feed.txt.   -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/quotes-feed.txt
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file	merge	#PATH#../feed/content-feed.txt
+input	open	file	merge	#PATH#../feed/news-feed.txt
+input	open	file	merge	#PATH#../feed/links-feed.txt
+input	open	file	merge	#PATH#../feed/basics-feed.txt
+input	open	file	merge	#PATH#../feed/appreciation-feed.txt
+input	open	file	merge	#PATH#../feed/perspective-feed.txt
+output	open	file		#PATH#../feed/combined-feed.txt
+
+<!-- PHASE 4: BUILD HTML INCLUDE FILES
+
+<!-- Generate Tags List with links for right-hand column -->
+<!-- Output: ../includes/tags_list.html                  -->
+
+input	set		normalization	0
+input	set		xpltags	true
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear
+sort	set		params
+sort	add	Ascending	Tag
+sort	add	Ascending	Item Type
+sort	add	Descending	Date
+sort	add	Ascending	Title
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Tag
+filter	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/tags_list_template.html
+template	generate
+template	open	text		#PATH#../factory/tag_cloud_template.txt
+template	generate
+template	open	text		#PATH#../factory/tag_cloud_word_list_template.txt
+template	generate
+template	open	text		#PATH#../factory/where_to_by_tag_template.js
+template	generate
+
+<!-- Generate navbar include file     -->
+<!-- Output: ../includes/navbar.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+sort	clear
+sort	set		params
+sort	add	Ascending	Section Seq
+sort	add	Ascending	Content Seq
+sort	add	Descending	Post Date
+sort	add	Ascending	Author
+sort	add	Ascending	Content Title
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/navbar_template.html
+template	generate
+
+<!-- Generate Javascript Table of all Content in its logical sequence -->
+<!-- Output: ../../../../../../Sites/practopian/js/where_to_content_logical.js                    -->
+
+template	open	text		#PATH#../factory/where_to_content_logical_template.js
+template	generate
+
+<!-- Generate Next Navigation                              -->
+<!-- Output: ../nextnav/=$lastpath$==$lastfilename$=.html  -->
+
+template	open	text		#PATH#../factory/nextnav_template.html
+template	generate
+
+<!-- PHASE 5: BUILD SECTION INDEX PAGES -->
+
+<!-- Generate Issues Index              -->
+<!-- Output: ../html/issues/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+filter	clear
+filter	set		params
+filter	add	equals	Section Title	Issues
+filter	add	not equal to	Content Title	Index
+filter	set		params
+sort	clear
+sort	add	Ascending	Content Seq
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/issues_index_template.html
+template	generate
+filter	clear
+filter	set		params
+
+<!-- Generate Blog Index              -->
+<!-- Output: ../html/blog/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+sort	clear
+sort	add	Descending	Post Date
+sort	add	Ascending	Section Title
+sort	add	Ascending	Content Title
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/blog_index_template.html
+template	generate
+
+<!-- Generate Blog Index by Title              -->
+<!-- Output: ../html/blog/index-by-title.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	xls		#PATH#../lists/content.xls
+filter	clear
+filter	set		params
+filter	add	equals	Section Title	Blog
+filter	add	does not contain	Title for Sort	index
+filter	set		params
+sort	add	Ascending	Title for Sort
+sort	set		params
+template	open	text		#PATH#../factory/blog_index_by_title.html
+template	generate
+
+<!-- Generate Basics Index              -->
+<!-- Output: ../html/basics/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/basics/
+sort	clear
+sort	add	Ascending	Title
+sort	set		params
+template	open	text		#PATH#../factory/basics_index_template.html
+template	generate
+
+<!-- Generate Appreciations Index             -->
+<!-- Output: ../html/appreciation/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/appreciation/
+sort	clear
+sort	add	Ascending	Title
+sort	set		params
+template	open	text		#PATH#../factory/appreciation_index_template.html
+template	generate
+
+<!-- Generate Quotes Index              -->
+<!-- Output: ../html/quotes/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+sort	add	Ascending	authorlastnamefirst
+sort	add	Ascending	title
+sort	set		params
+template	open	text		#PATH#../factory/quotes_index_template.html
+template	generate
+
+<!-- Generate Quotes by Author Pages                          -->
+<!-- Output: ../../../../../../Sites/practopian/quotes-by-author/=$authorfilename$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+sort	add	Ascending	authorfilename
+sort	add	Ascending	date
+sort	add	Ascending	dateadded
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/quotes_by_author_template.html
+template	generate
+
+<!-- Generate Javascript Navigation for Quotes -->
+<!-- Output: ../../../../../../Sites/practopian/js/quotes.js               -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+sort	add	Ascending	authorlastnamefirst
+sort	add	Ascending	title
+sort	set		params
+template	open	text		#PATH#../factory/quotes_template.js
+template	generate
+
+<!-- Generate News Index              -->
+<!-- Output: ../html/news/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/news/
+sort	clear
+sort	add	Descending	Date
+sort	add	Ascending	Title
+sort	set		params
+template	open	text		#PATH#../factory/news_index_template.html
+template	generate
+
+<!-- Generate Links Index              -->
+<!-- Output: ../html/links/index.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+sort	clear
+sort	add	Descending	Date
+sort	set		params
+template	open	text		#PATH#../factory/links_index_template.html
+template	generate
+
+<!-- Generate Links Index by Title              -->
+<!-- Output: ../html/links/index-by-title.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+filter	clear
+filter	set		params
+sort	add	Ascending	Title
+sort	set		params
+template	open	text		#PATH#../factory/links_index_by_title.html
+template	generate
+
+<!-- PHASE 6: GENERATE HTML CONTENT FOR EXPLORE PAGES -->
+
+<!-- Generate Explore Page featuring most recent content additions -->
+<!-- Output: ../html/explore/latest-content.html                   -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear
+sort	add	Descending	Date
+sort	add	Ascending	Section
+sort	add	Ascending	Title
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Section	Perspective
+filter	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/explore/latest_all_template.html
+template	generate
+
+<!-- Generate Explore Page featuring most recent original content additions -->
+<!-- Output: ../html/explore/latest-original-content.html                   -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+filter	clear
+filter	set		params
+filter	add	equals	Author	Herb Bowie
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	Descending	Date
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/explore/latest_original_template.html
+template	generate
+
+<!-- Generate tab-delimited index for blog section  -->
+<!-- Output: ../index/blog-hbowie.txt               -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-index		#PATH#../content/blog/hbowie/
+template	open	text		#PATH#../factory/index_blog_hbowie_template.txt
+template	generate
+
+<!-- Generate tab-delimited index for basics section  -->
+<!-- Output: ../index/basics.txt                      -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-index		#PATH#../content/basics/
+template	open	text		#PATH#../factory/index_basics_template.txt
+template	generate
+
+<!-- Generate tab-delimited index for appreciation section  -->
+<!-- Output: ../index/appreciation.txt                      -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-index		#PATH#../content/appreciation/
+template	open	text		#PATH#../factory/index_appreciation_template.txt
+template	generate
+
+<!-- Generate tab-delimited index for issues section  -->
+<!-- Output: ../index/issues-sustainability.txt       -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-index		#PATH#../content/issues/sustainability/
+template	open	text		#PATH#../factory/index_issues_sustainability_template.txt
+template	generate
+
+<!-- Merge and create a Consolidated Index File -->
+<!-- Output: ../feed/combined.txt               -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../index/blog-hbowie.txt
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file	merge	#PATH#../index/basics.txt
+input	open	file	merge	#PATH#../index/issues-sustainability.txt
+input	open	file	merge	#PATH#../index/appreciation.txt
+output	open	file		#PATH#../index/combined.txt
+
+<!-- Generate the Index Page             -->
+<!-- Output: ../../../../../../Sites/practopian/explore/site-index.html   -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../index/combined.txt
+sort	add	Ascending	Initial Letter
+sort	add	Ascending	Lower Case Term
+sort	add	Ascending	Section
+sort	add	Ascending	Page Title
+sort	set		params
+template	open	text		#PATH#../factory/explore/site_index_letters_template.html
+template	generate
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/explore/site_index_template.html
+template	generate
+
+<!-- PHASE 7: BUILD FINAL WEB PAGES WITH CONTENT -->
+
+<!-- Generate Web pages for content                     -->
+<!-- Output: ../../../../../../Sites/practopian/=$path&l$==$content-title&f$=.html  -->
+
+input	set		normalization	0
+input	open	xls		#PATH#../lists/content.xls
+sort	clear
+sort	set		params
+filter	clear
+filter	set		params
+sort	add	Ascending	Section Seq
+sort	add	Ascending	Content Seq
+sort	add	Ascending	Author
+sort	add	Ascending	Content Title
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/content_template.html
+template	generate
+
+<!-- Generate web pages for Quotes           -->
+<!-- Output: ../../../../../../Sites/practopian/quotes/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../lists/quotes.tab
+template	open	text		#PATH#../factory/quote_template.html
+template	generate
+
+<!-- Generate web pages for News           -->
+<!-- Output: ../../../../../../Sites/practopian/news/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/news/
+template	open	text		#PATH#../factory/news_template.html
+template	generate
+
+<!-- Generate web pages for Links           -->
+<!-- Output "../../../../../../Sites/practopian/links/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+template	open	text		#PATH#../factory/link_template.html
+template	generate
+
+<!-- Generate web pages for Basic Info       -->
+<!-- Output: ../../../../../../Sites/practopian/basics/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/basics/
+template	open	text		#PATH#../factory/basics_template.html
+template	generate
+
+<!-- Generate web pages for appreciation           -->
+<!-- Output: ../../../../../../Sites/practopian/appreciation/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/appreciation/
+template	open	text		#PATH#../factory/appreciation_template.html
+template	generate
+
+<!-- Generate Tags Pages                 -->
+<!-- Output: ../../../../../../Sites/practopian/tags/=$tag&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	true
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear
+sort	set		params
+sort	add	Ascending	Tag
+sort	add	Ascending	Item Type
+sort	add	Descending	Date
+sort	add	Ascending	Title
+sort	set		params
+filter	clear
+filter	set		params
+filter	add	not equal to	Tag
+filter	set		params
+template	open	text		#PATH#../factory/tag_template.html
+template	generate
+
+<!-- Generate Home Page featuring most recent content additions -->
+<!-- Output: ../../../../../../Sites/practopian/index.html                                  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear
+sort	add	Descending	Date
+sort	add	Ascending	Section
+sort	add	Ascending	Title
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/home_template.html
+template	generate
+
+<!-- Generate Javascript Array to hold all items in descending seq by date -->
+<!-- Output: ../../../../../../Sites/practopian/js/where_to_reverse_chron.js                           -->
+
+template	open	text		#PATH#../factory/where_to_reverse_chron_template.js
+template	generate
+
+<!-- Generate RSS Feed       -->
+<!-- Output: ../../../../../../Sites/practopian/rss.xml  -->
+
+template	open	text		#PATH#../factory/rss_template.xml
+template	generate
+
+<!-- Generate Search Page               -->
+<!-- Output: ../../../../../../Sites/practopian/search/search.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear
+sort	set		params
+template	webroot	text		#PATH#../../../../../../Sites/practopian/
+template	open	text		#PATH#../factory/search_template.html
+template	generate

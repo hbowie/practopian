@@ -1,0 +1,15 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	set		xpltags	false
+input	set		dirdepth	3
+input	open	dir	merge	#PATH#../content/
+filter	add	not equal to	Type	Directory
+filter	add	not equal to	English Name	README
+filter	add	not equal to	English Name	template
+filter	add	not equal to	path	dev levels
+filter	add	not equal to	path	beliefs
+filter	add	not equal to	path	perspective
+filter	add	not equal to	path	news
+filter	set		params
+template	open	text		#PATH#../factory/sitemap_template.xml
+template	generate
