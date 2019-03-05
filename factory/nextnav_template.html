@@ -1,0 +1,10 @@
+<?set lastpath = "" ?>
+<?set lastfilename = "" ?>
+<?nextrec?>
+<?if "=$lastfilename$=" ?>
+<?output "../nextnav/=$lastpath$==$lastfilename$=.html" ?>
+Next =&gt; <a href="=$relative$==$path&l$==$content-title&f$=.html">=$content-title$=</a>
+<?endif?>
+<?set lastpath = "=$path&l$=" ?>
+<?set lastfilename = "=$content-title&f$=" ?>
+<?loop?>
