@@ -75,15 +75,10 @@ For current examples, think about Amazon's recent decision to raise the minimum 
 Big thinkers such as Wilber, Harari, Clare Graves, Don Beck and Chris Cowan have one more integral tool to add to our thinking toolbox, and that's the notion that we can perceive a situation through the lenses of various stages of development. We might characterize these stages or levels in the following way.
 
 1. Archaic/Instinctual: Focused on immediate survival needs; behavior based on inborn instincts and reflexes.
-
 2. Magical/animistic: Seeing various objects and aspects of the world as separate entities, each with their own independent natures, but without any deep or accurate understanding. 
-
 3. Tribal/Power Gods: Assertion of self for dominance and power, organization into tribes, tribal structures based on power hierarchies: might makes right. 
-
 4. Traditional/Mythic Order: organization around shared laws and principles that have been handed down from elders; belief in the law and in an authoritarian hierarchy from which the law is passed down. 
-
 5. Modern/Rational: Beliefs derived and enhanced through application of the scientific method, through shared, accumulated and jointly tested knowledge. 
-
 6. Postmodern/Pluralistic: Egalitarian, relativistic, situational; accepting of fluid affiliations; consensus-based decision-making; conscious and active acceptance of varying ethnic backgrounds and traditions. 
 
 In order to understand what to make of these different levels of development, it's important to keep the following points in mind. 

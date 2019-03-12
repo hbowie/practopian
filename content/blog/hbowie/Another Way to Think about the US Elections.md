@@ -136,21 +136,13 @@ For additional details, refer to these earlier posts:
 If we think about the candidates and our electorate from this perspective, it's possible to make a few cogent observations. 
 
 1. Our most popular political candidates are able to demonstrate their ability to operate successfully at all or most of these different developmental levels (1 - 7). Barack Obama is a good example of this, and Bill Clinton was another.  
-
 2. During her presidential campaign, Hillary Clinton only ever really seemed credible at the Green Postmodern / Pluralistic level (6). 
-
 3. Donald Trump is clearly entrenched in levels 1 - 3, with little if any ability to operate above the Red Tribal / Power Gods level. 
-
 4. If we consider the much-discussed urban/rural divide from the perspective of [Developmental Levels as Evolving Social Structures][devlev2], then it's clear that our large cities are the places dominated by levels 4 - 6, whereas our more rural areas are primarily dominated by levels 1 - 4. This is not so much a question of an evolution of consciousness, as it is a question of which social structures are most useful in which environments. 
-
 5. As America has shifted much of its labor needs from growing and building things to the use of technology for the manipulation of information, it has increased the size of this divide: with fewer jobs in rural areas, and with the information economy growing in large cities, those still left outside of the cities increasingly have little use for social structures that are characteristic of levels above 4. 
-
 6. Donald Trump was, and is, in many ways a perfect candidate to mobilize this part of our electorate. He is clearly a champion for levels 1 - 3, and he is one who has visibly succeeded on the very turf typically dominated by those operating primarily at levels 4 - 6: he has succeeded in the media, and he has had his name emblazoned on many large and impressive edifices found in the middle of some of our largest cities. So for those living in suburbia and in the country, Trump is a very attractive leader to champion the somewhat neglected interests of those living outside of our most populous urban areas. 
-
 7. The world's largest businesses have been quietly moving towards a greater focus on the Red Tribal / Power Gods level (3). These businesses increasingly operate outside of the laws and norms laid down by any one nation, and are increasingly interested in achieving global dominance of their chosen market segments. As we begin to think of the world, not in terms of a place with limitless opportunities for discovery and application of new technologies, nor as a global community operating under the rule of law, but as a large but limited pie, both in terms of resources and in terms of markets, then our focus naturally shifts towards acquiring and keeping power, and away from societal principles, away from scientific research, and away from egalitarian impulses to live and let live. Instead, we are back at the might-makes-right level. And, again, Trump appears a highly qualified leader if this is the kind of playing field we're on -- he certainly presented himself as much more capable of leading at this level, when compared to any of the other presidential candidates of either party in 2016. 
- 
 8. When you consider the ability of large businesses to place jobs wherever they want, and you consider the ability of radical terrorists to kill innocent civilians wherever they want, you feel yourself much more in need of a level 3 leader than someone leading at levels 4, 5 or 6. You want to be part of a large, mighty tribe with a strong, powerful leader. 
-
 9. When we ponder the meaning of the term "elites" in our current political discourse, it quite naturally is used by those constrained to levels 1 - 4, to refer to those who have the luxury of being able to operate at levels 5, 6 and 7. 
 
 ## What Next?
@@ -160,9 +152,7 @@ For those of us who still believe in the importance of the [rule of law](../../t
 I think there are three main areas on which we need to focus our energies. 
 
 1. We need political leaders who appear credible at all of these levels. In particular, it's important not to neglect the lower levels, even while recognizing the importance of the higher levels. 
-
 2. We need large tech companies to begin placing jobs requiring a college degree in areas outside of the large, popular urban areas. Until these parts of our country have more jobs requiring people with the capability and the need to operate at higher levels of development, we cannot expect these parts of our country to fully recognize the importance of these higher levels. This does not require sacrifice from anyone. Many employees would gladly relocate to areas with lower housing prices, less population density and greater access to the outdoors. 
-
 3. We need to use these higher levels of development to assess the performance of our current and incoming political leaders. This will require some patience. It does no good to start pointing fingers now. But it would do a lot of good to establish some reasonable measures of success and then start tracking these on a monthly basis, in a non-partisan way, showing numbers and trends by state and county, as well as at the national level. 
 
 

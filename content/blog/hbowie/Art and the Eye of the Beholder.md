@@ -33,33 +33,21 @@ Of course, I've never run across an actual artist who sees things this way.
 Let me recount what seems to me to be the complete artistic process. 
 
 1. A prospective artist learns some craft that allows them to manipulate images, sounds or words in a way that is appealing to others. They often learn this craft by emulating other artists who have come before them.
-
 2. The artist's creativity is sparked by some new technique, perhaps enabled by an advance in technology. 
-
 3. The artist has an inner experience about something -- a feeling, a thought, an insight, or likely some sensation harder to pigeonhole -- that feels unique to them. Insofar as they can tell, others around them are not having, or have not had, this same experience. 
-
 4. The artist feels a strong desire for expression and communion. 
-
 5. The artist uses her acquired craft to fashion an object that can be shared with others: a painting, a song, a story, or something else that can be observed in some way. 
-
 6. This object proves to indeed be different from other similar objects. 
-
 7. Moreover it is different in a way that betrays traces of its authorship. A sufficiently informed observer becomes aware that this singular work of art could only have been produced by this particular *auteur*.
-
 8. Contemplation of this object helps to replicate in its audience something of the original inner experience that the artist had back in Step 3. 
-
 9. As a result of this shared experience, observers henceforth live different lives than they would have without this work of art. These may be big differences, or small differences, but they are in some sense important differences.  
 
 And so, by the end of this whole cycle, what exactly has been accomplished?
 
 1. We have had demonstrated for us the value of the individual, since what started as a unique experience by a single person has now enriched many. 
-
 2. We have had demonstrated for us some element of our common humanity, for what started as a unique feeling has now been shared with a host of others. 
-
 3. We have experienced personal growth. Individuals who have come under the spell of a particular work are now able to see the world in some new way. 
-
 4. We have collectively expanded our notion of what it means to be human, for by accepting this new object as a work of art, we have forever enlarged our definition of the human experience. 
-
 5. We have taken steps, in one way or another, to help create a more human world, an environment that is more welcoming and more caring for actual human beings. 
 
 So you can see that, if my claims are true, appreciation of art is much more than the purely subjective experience that some Big Thinkers would portray for us. 

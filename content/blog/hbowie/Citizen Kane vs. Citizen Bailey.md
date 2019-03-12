@@ -162,7 +162,9 @@ Of course none of us need to look much beyond the daily headlines to see example
 
 - *The Wall Street Journal*: "[RURAL AMERICA IS THE NEW 'INNER CITY'][rural]"
 
+All of us are faced with difficult decisions over the courses of our lives, but none of us should have to choose individualism over community, and none of us should worship at the feet of these sorts of individualists. We can't always have it all -- we do have to make tough choices, just as Citizens Kane and Bailey did -- but we can still strive to integrate individualistic concerns with concerns for community, in order to become whole, integral human beings. 
 
+And works of art such as *Citizen Kane* and *It's A Wonderful Life*, when viewed with thoughtful appreciation, can help show us the way. 
 
 [amazon]: https://www.cnbc.com/2019/02/27/amazon-backs-out-of-rainier-square-tower-in-seattle-geekwire.html
 

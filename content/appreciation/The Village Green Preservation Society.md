@@ -109,9 +109,7 @@ Thematically, the song can easily be thought of as [George Santayana][san] set t
 The song seems even more relevant today than when it was first released, for several reasons:
 
 1. As growing environmental issues have us all watching the [Tragedy of the commons][totc] playing out on a global scale, we can see The Kinks' concern for saving the village green in a new light;
-
 2. As we see England, America and other countries facing increasing polarization dividing their urban and rural populations, we can appreciate the value of Davies' respect for traditional, village life;
-
 3. As we observe the terrible toll on our society taken by tech companies whose motto is "Move fast and break things," we can gain new respect for the singers' avowed mission of "Preserving the old ways from being abused" and "Protecting the new ways, for me and for you."
 
 Ray Davies and The Kinks certainly recorded a number of great songs, but this one, I think, really stands alone for me. It's hard to think of a comparable song, from any artist, that so calls upon us as listeners to knit together the splintered pieces of our society into a coherent whole that works for all of us. 

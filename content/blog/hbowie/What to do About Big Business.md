@@ -118,13 +118,9 @@ Communities represent all of their members, and so have a theoretical advantage 
 When we finally come to consider business, even though it has the disadvantage in terms of overall population size, it has all of the following advantages:
 
 1. Organization -- Whereas consumers, workers and communities must all build organizations in order to exert their influence in a concerted fashion, businesses are already organized into large hierarchies, and can simply use their existing structures to plan and execute influence campaigns.
-
 2. Resources -- Any sustainable business must have an income that exceeds its expenses, and thus generates a surplus that can be strategically deployed as business leaders see fit -- including spending those resources to project business influence on society at large. 
-
 3. Persuasion -- Any business has to persuade others to purchase its products, and so businesses can easily turn these readily available skills of persuasion to influence members of society. 
-
 4. Efficiency -- In any capitalist economy, successful businesses must relentlessly focus on efficiency in order to remain competitive and stay in business; consumers, workers and communities are typically not subject to the same pressures, at least to the same degree, and therefore tend to be more prone to complacency, indecision and bureaucratic inefficiencies.
-
 5. Mobility -- Businesses are not as geographically constrained as  workers, consumers or communities, and so it is easier for them to walk away from deals they dislike. And, since other parties know this is the case, mere threats to walk away from unfavorable deals give them a great deal of power as well. 
 
 ## Modern Times

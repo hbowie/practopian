@@ -57,13 +57,9 @@ As our competitive advantage over other species has increased, [human population
 It's important to realize that population growth is a significant contributor to five separate factors, each of which is having its own negative impact on our earth and its livability.
 
 1. As human population levels continue to grow, it becomes increasingly evident that we can think of the Earth as a collection of valuable resources -- usable land, clean air, clean water, stores of energy, and so on -- that is decidedly finite. In other words, we can think of the Earth as a pie of fixed size, and our ever increasing human population as a growing group of eager diners. As our numbers grow, each of us, on balance, gets a smaller slice of the pie.
-
 2. As our human population grows and covers the planet, we increasingly crowd out other life forms, causing the [extinction of other species][ext] at an alarming rate -- even species that we know form [vital links in our own food chain][bees]. These actions have a cumulative effect over the years.
-
 3. Another impact of our population growth is a growing depletion of the Earth's non-renewable resources, such as subterranean ores and minerals and sources of energy. This action also has a cumulative effect.
-
 4. And yet another impact of the growth of our population is the generation of increasing amounts of pollution, pollution that degrades the quality of human lives, as well as the viability of non-human lives. 
-
 5. And one major effect of a certain type of pollution is the [global warming][warm] of our oceans and atmosphere through the generation of greenhouse gases. And, once again, these activities are having a cumulative effect over the years.
 
 These negative environmental impacts can be seen as the ultimate [tragedy of the commons][totc]: "a situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting that resource through their collective action."
@@ -174,25 +170,25 @@ What would you do?
 
 Let's look at your major options. 
 
-1. Allow the human population to keep on growing at a significant rate for now and forever. 
+#### 1. Allow the human population to keep on growing at a significant rate for now and forever. 
 
-	This option seems irrational, knowing that we are living on a world of finite resources, and are already overextending them. 
+This option seems irrational, knowing that we are living on a world of finite resources, and are already overextending them. 
 
-2. Allow the human population to keep on growing for now, with the intent to slow and stop its growth at some date in the future. 
+#### 2. Allow the human population to keep on growing for now, with the intent to slow and stop its growth at some date in the future. 
 
-	This option just seems to postpone the inevitable, and imposes a significant additional burden on our global ecosystem, as well as our social and economic systems that will have to somehow accommodate an even larger population than we have today. 
+This option just seems to postpone the inevitable, and imposes a significant additional burden on our global ecosystem, as well as our social and economic systems that will have to somehow accommodate an even larger population than we have today. 
 
-3. Adjust the growth rate to zero. 
+#### 3. Adjust the growth rate to zero. 
 
-	This is certainly better than the first two options, but still leaves us with the problem of how to create a sustainable future for our planet with 7.5 billion people living on it. 
+This is certainly better than the first two options, but still leaves us with the problem of how to create a sustainable future for our planet with 7.5 billion people living on it. 
 
-4. Adjust the growth rate to something slightly less than zero. 
+#### 4. Adjust the growth rate to something slightly less than zero. 
 
-	This would not only stop adding to our numbers, but would over time gradually decrease them to a more sustainable level. 
+This would not only stop adding to our numbers, but would over time gradually decrease them to a more sustainable level. 
 
-5. Adjust the growth rate to something much less than zero. 
+#### 5. Adjust the growth rate to something much less than zero. 
 
-	The social and economic impacts of a rapid decline in population levels would probably be very difficult to absorb. 
+The social and economic impacts of a rapid decline in population levels would probably be very difficult to absorb. 
 	
 So when considering the different options, the choice of a slightly negative population growth rate might be the best answer. 
 

@@ -199,7 +199,7 @@ template	generate
 input	set		normalization	0
 input	set		xpltags	false
 input	set		dirdepth	3
-input	open	dir	merge	#PATH#../content/
+input	open	dir		#PATH#../content/
 filter	add	not equal to	Type	Directory
 filter	add	not equal to	English Name	README
 filter	add	not equal to	English Name	template

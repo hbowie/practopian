@@ -38,29 +38,17 @@ We will work to advance our cause through authoring, publication, education, sci
 We believe in:
 
 1. taking a [humanistic][humanism] perspective;
-
 2. the value of [integrating][integral] multiple diverse human perspectives;
-
 3. the use of [science][];
-
 4. the development of life forms through [evolution][];
-
 5. the importance of [cultural evolution][cultural-evolution];
-
 6. the importance of the [written word][written-word];
-
 7. our ability to create meaning for ourselves through [storytelling][stories];
-
 8. in getting better, not in seeking a state of [perfection][imperfection];
-
 9. the power of [ordinary individuals][individuals] to shape our cultural evolution;
-
 10. the use of [critical thinking][critical-thinking];
-
 11. applying [systems thinking][systemic];
-
 12. cultivating a sense of [wonder][];
-
 13. nourishing feelings of [love][].
 
 

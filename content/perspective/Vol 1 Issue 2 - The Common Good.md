@@ -46,23 +46,14 @@ At the same time, though, especially for those of us in the US, this sea change 
 And then, I think, we saw the following truths play out over the years and decades that followed. 
 
 1. Distribution of goods and services becomes global. 
-
 2. Competition among companies becomes global. 
-
 3. The labor pool becomes global. 
-
 4. As human population levels increase, and as a higher percentage of our global population seeks to avail itself of the benefits of modern technology, demand for goods and services continues to rise. 
-
 5. Natural resources such as oil become more scarce, and therefore become more costly. 
-
 6. Markets are not stable, and are frequently upended by innovations that few saw coming. 
-
 7. Human beings and institutions easily become complacent. 
-
 8. The pace of change in technology, industry and society is unrelenting. 
-
 9. Individuals prove better than organizations at foreseeing and preparing for changes that may be headed our way. 
-
 10. Although competition is often a harsh and unforgiving process, it is the only mechanism we have discovered so far that can continue to reliably produce changes in species, industries and organizations that allow us to successfully adapt to evolving environmental conditions in an ongoing fashion. 
 
 Looking back over this list of emergent truths and the history of the last five decades, it's hard to see how any person or institution could have forestalled any of this, or could reasonably argue with the veracity of any of these statements today. 

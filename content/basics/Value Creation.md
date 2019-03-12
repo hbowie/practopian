@@ -74,9 +74,7 @@ So now let's look at the full statement of this particular Practopian belief:
 We're really saying three things here:
 
 1. We want people to create value; 
-
 2. Since in most cases people are not creating value directly for themselves, they will probably need some form of encouragement (such as a reward system) to help motivate them to optimize their value creation;
-
 3. We want to allocate our capital (i.e., surplus) so that it has a good chance of being used wisely (i.e., to create even more value, and to avoid the problems listed above). 
 
 ## Practical Implications

@@ -31,7 +31,7 @@ Body:
 
 When I look at what's going on around me today and try to make sense of it, I am forced to draw the conclusion that we are deep into an as yet unnamed age that I would call "The Systemic Era." What I mean by this is that we are now at a point where the human condition is much more influenced by vast social and economic systems of our own collective making than by any natural forces or conditions, or any individual actions we might take, or even any individual intentions we might have.
 
-Probably the best example of this is [global warming][] -- the condition of increasing world temperatures  and climactic instability caused by rising human population levels and human activities. But just as good an example is our recent global [financial meltdown][], and the controversial actions taken to prevent the failures of specific institutions from spreading and bringing down our entire credit system.
+Probably the best example of this is [global warming][] -- the condition of increasing world temperatures  and climatic instability caused by rising human population levels and human activities. But just as good an example is our recent global [financial meltdown][], and the controversial actions taken to prevent the failures of specific institutions from spreading and bringing down our entire credit system.
 
 The recent problem of [sudden, uncontrolled and unprovoked acceleration in Toyota's Prius model][prius] is another typical tale of the Systemic Era. Here we have a bunch of affluent, well-meaning, environmentally conscious consumers (if we  dare to characterize Prius owners as such) being terrorized by the prospects of the cars they are so proud of suddenly tearing off down the road and smashing into something. And the cause of this errant automotive behavior? A glitch in the car's software system, perhaps. Or a breakdown in Toyota's quality system. Or a failure of our automotive testing system. But whatever is causing it, it certainly isn't something that you can go out into your driveway and fix with a wrench or a screwdriver, even after a heart-to-heart talk with Tom and Ray of [Car Talk][] fame.
 
@@ -42,17 +42,11 @@ The preeminent corporate identity in the Systemic Era is [Apple, Inc.][apple], n
 So having provided numerous examples of what I am calling the Systemic Era, let me enumerate what I see as the distinctive attributes of this age.
 
 1. The presence of global human systems that are so large and powerful and interconnected that these systems and their relationships are the primary determinants of the Human Condition, dwarfing the influence of Nature as well as the actions and intentions of individuals.
-
 2. A human relationship to Nature in which we are no longer subject to Nature, or even harnessing Nature for our own devices, but overwhelming Nature.
-
 3. Commercial motivations that see benefit more from creating and exploiting loopholes in these systems, than from creating genuine value for our communities on any sort of broad scale through these systems. This is the primary reason, I would submit, why the nature of this age is not already better understood: there is little or no financial benefit to individual parties to make "The Systemic Era" any sort of marketing slogan (as a matter of fact, the situation is quite to the contrary).
-
 4. Systems that are increasingly separated from any natural or historic models to such a degree that we can no longer afford for our attitudes towards these systems to be based on any sort of historic precedents or prejudices. As the [Wright Brothers said when working on their pioneering aircraft][wrightbros], "If we worked on the assumption that what is accepted as true really is true, then there would be little hope for advance."
-
 5. An increasing inability for individuals and institutions to do lasting good by working within existing systems, without actually changing the systems themselves, or inventing new systems.
-
 6. A growing popular desire to return to simpler, more natural times, even though these earlier, apparently Edenic, times may themselves have just been arbitrary points in ongoing systemic evolution -- as evidenced by the now famous injunction, issued during the recent US health care debate, to "[Keep your government hands off my Medicare][medicare]!"
-
 7. Organizational structures in human society and commerce that correlate nicely with the "Integral / Systemic" [level of human and cultural development][levels] as described by Don Beck, Chris Cowan, Ken Wilber and others.
 
 So what are some of the practical implications of all this for us, as global citizens? Primarily, I think, that we should reject and see beyond some of the false contradictions continually being offered to us by the media and many of our political spokespeople.

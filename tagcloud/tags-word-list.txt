@@ -1,0 +1,34 @@
+32	art	https://www.Practopian.org/tags/art.html
+12	balance	https://www.Practopian.org/tags/balance.html
+27	connection	https://www.Practopian.org/tags/connection.html
+67	critical thinking	https://www.Practopian.org/tags/critical-thinking.html
+72	cultural evolution	https://www.Practopian.org/tags/cultural-evolution.html
+18	democracy	https://www.Practopian.org/tags/democracy.html
+13	diversity	https://www.Practopian.org/tags/diversity.html
+25	education	https://www.Practopian.org/tags/education.html
+41	equality	https://www.Practopian.org/tags/equality.html
+05	evolution	https://www.Practopian.org/tags/evolution.html
+25	governance	https://www.Practopian.org/tags/governance.html
+30	humanism	https://www.Practopian.org/tags/humanism.html
+08	imperfection	https://www.Practopian.org/tags/imperfection.html
+36	individuals	https://www.Practopian.org/tags/individuals.html
+18	integral	https://www.Practopian.org/tags/integral.html
+22	liberty	https://www.Practopian.org/tags/liberty.html
+21	love	https://www.Practopian.org/tags/love.html
+18	mission	https://www.Practopian.org/tags/mission.html
+07	parenthood	https://www.Practopian.org/tags/parenthood.html
+03	population	https://www.Practopian.org/tags/population.html
+04	practical	https://www.Practopian.org/tags/practical.html
+30	progress	https://www.Practopian.org/tags/progress.html
+01	property	https://www.Practopian.org/tags/property.html
+18	religion	https://www.Practopian.org/tags/religion.html
+04	rule of law	https://www.Practopian.org/tags/rule-of-law.html
+16	science	https://www.Practopian.org/tags/science.html
+37	society	https://www.Practopian.org/tags/society.html
+11	stories	https://www.Practopian.org/tags/stories.html
+20	sustainability	https://www.Practopian.org/tags/sustainability.html
+12	systemic	https://www.Practopian.org/tags/systemic.html
+02	tools	https://www.Practopian.org/tags/tools.html
+19	value creation	https://www.Practopian.org/tags/value-creation.html
+17	wonder	https://www.Practopian.org/tags/wonder.html
+17	written word	https://www.Practopian.org/tags/written-word.html

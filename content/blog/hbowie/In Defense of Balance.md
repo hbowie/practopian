@@ -30,9 +30,7 @@ Human life is like that. It's a complex undertaking. Take the device you're read
 Unfortunately, as important as it is, balance often has three strikes against it. 
 
 1. Balance can be really hard. Whether we're talking about a seesaw, the scales of justice, or a house of cards, it's usually a lot easier to tip things over in one direction or the other than it is to find and maintain a stable balance between opposing forces. 
-
 2. From a spectator's perspective, balance is usually boring, because it lacks the drama of swinging from one extreme to another. 
-
 3. Balance can be hard to defend. Those who speak in its favor can be easily accused of being inconsistent, wishy-washy, weak-willed, or fuzzy-minded -- or all four at once, on a particularly bad day.  
 
 Sadly for all of us, I think, the cause of balance has fallen on hard times of late. All three of the factors working against it seem to be operating in full force on a daily basis, no matter where we look. Donors and sponsors demand unwavering allegiance to one fundamentalist extreme or the other, whether it's free market capitalism or the right to bear arms. News media of all stripes and persuasions realize that balance doesn't sell newspapers or capture eyeballs, and so we are subjected to a constant barrage of one extreme or another, no matter which channel we tune in to. And the same people who insisted for years on a repeal of ObamaCare, it turns out, have no idea in their simple heads about what would constitute a suitable replacement. 

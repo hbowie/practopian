@@ -45,27 +45,16 @@ When I look at possible candidates for some sort of great national enterprise th
 Consider:
 
 1. [Sustainability][sustain] is the greatest human challenge of our era. There are lots of facts and arguments to support this position, and many experts to endorse it. 
-
 2. As we Americans witness continually growing housing costs, overcrowded cities and roadways, crumbling infrastructure, climbing temperatures, increasingly destructive wildfires, rising sea levels, the negative impacts of fracking, the extinction of species, growing economic inequality, and increasing levels of pollution, the issue of sustainability becomes an everyday concern for most of us, rather than an  academic debate. 
-
 3. The primary goals of the initiative could be strongly centered on national interests, with positive impacts that would be felt by most US citizens. 
-
 4. There could be many different threads to this initiative, with the opportunity to involve almost everyone in our society in one capacity or another. 
-
 5. Part of the initiative could be to maintain a sustainable US population size, thus providing a meaningful context for immigration policy. 
-
 6. Once we can achieve some agreement on a sustainable population size as a meaningful goal, we can regain broader support for family planning and birth control -- which should help to bring down abortion rates as well as rates of unwanted pregnancies. 
-
 7. Investments in research & development and industrial capacity could help to foster a renewed sense of US leadership in science and technology and manufacturing. 
-
 8. Such an initiative would have a forward-looking focus, with the goal of building a better world for our children and generations to come. 
-
 9. Badly needed infrastructure development could be energized by a sustainability emphasis, providing the sense that we are not just fixing up the old stuff that is crumbling, but helping to build something new and better that will last longer. 
-
 10. Implementing something like a national Environmental Impact Tax could help to reduce environmental degradation, while at the same time providing a meaningful rationale for taxation.  
-
 11. Sustainability work could help provide more and better jobs for Americans. 
-
 12. Even with a primary focus on helping Americans, such an initiative would allow our country to regain a moral high ground and a renewed opportunity to exercise world leadership. 
 
 Gaining support for such an initiative would not be easy, and would need to be worked by a broad coalition including government, non-profits and for-profit companies. 

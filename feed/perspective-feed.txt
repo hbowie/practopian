@@ -1,0 +1,28 @@
+Section	Item Type	Date	Title	Author	Link	Tags	Teaser
+Perspective	Perspective	2018-12-11	Vol 1 Issue 19 - Calling for a US Sustainability Initiative		perspective/vol-1-issue-19-calling-for-a-us-sustainability-initiative.html
+Perspective	Perspective	2018-11-20	Vol 1 Issue 16 - The Written Word		perspective/vol-1-issue-16-the-written-word.html
+Perspective	Perspective	2018-10-08	Vol 1 Issue 12 - US Political Commentary		perspective/vol-1-issue-12-us-political-commentary.html
+Perspective	Perspective	2019-02-26	Vol 1 Issue 27 - Is There Any Middle Left?		perspective/vol-1-issue-27-is-there-any-middle-left.html
+Perspective	Perspective	2018-12-18	Vol 1 Issue 20 - A Christmas Wish For All		perspective/vol-1-issue-20-a-christmas-wish-for-all.html
+Perspective	Perspective	2018-05-03	Vol 1 Issue 3 - Can we talk openly about Hierarchy?		perspective/vol-1-issue-3-can-we-talk-openly-about-hierarchy.html
+Perspective	Perspective	2019-01-29	Vol 1 Issue 24 - More Love		perspective/vol-1-issue-24-more-love.html
+Perspective	Perspective	2018-09-28	Vol 1 Issue 11 - Our Societal Disconnect		perspective/vol-1-issue-11-our-societal-disconnect.html
+Perspective	Perspective	2019-02-20	Vol 1 Issue 26 - Rebuilding Trust in Our Large Institutions		perspective/vol-1-issue-26-rebuilding-trust-in-our-large-institutions.html
+Perspective	Perspective	2019-01-08	Vol 1 Issue 21 - The Value of Individuals		perspective/vol-1-issue-21-the-value-of-individuals.html
+Perspective	Perspective	2018-04-02	Vol 1 Issue 1 - A Practopian Approach to Gun Issues in the US		perspective/vol-1-issue-1-a-practopian-approach-to-gun-issues-in-the-us.html
+Perspective	Perspective	2018-04-13	Vol 1 Issue 2 - The Common Good		perspective/vol-1-issue-2-the-common-good.html
+Perspective	Perspective	2018-12-04	Vol 1 Issue 18 - The Importance of Mission		perspective/vol-1-issue-18-the-importance-of-mission.html
+Perspective	Perspective	2018-09-18	Vol 1 Issue 10 - Why I Call Myself a Practopian		perspective/vol-1-issue-10-why-i-call-myself-a-practopian.html
+Perspective	Perspective	2019-01-22	Vol 1 Issue 23 - The Truth About Capitalism		perspective/vol-1-issue-23-the-truth-about-capitalism.html
+Perspective	Perspective	2018-10-29	Vol 1 Issue 14 - An Integral Approach		perspective/vol-1-issue-14-an-integral-approach.html
+Perspective	Perspective	2018-11-06	Vol 1 Issue 15 - My Advice		perspective/vol-1-issue-15-my-advice.html
+Perspective	Perspective	2018-07-06	Vol 1 Issue 5 - What To Do About Big Business		perspective/vol-1-issue-5-what-to-do-about-big-business.html
+Perspective	Perspective	2018-08-10	Vol 1 Issue 7 - The Twenty-Six Legged Stool		perspective/vol-1-issue-7-the-twenty-six-legged-stool.html
+Perspective	Perspective	2019-02-06	Vol 1 Issue 25 - Our American Class System		perspective/vol-1-issue-25-our-american-class-system.html
+Perspective	Perspective	2018-09-01	Vol 1 Issue 9 - Art and The Unbroken Circle		perspective/vol-1-issue-9-art-and-the-unbroken-circle.html
+Perspective	Perspective	2018-11-27	Vol 1 Issue 17 - A Broadcast Consciousness		perspective/vol-1-issue-17-a-broadcast-consciousness.html
+Perspective	Perspective	2018-06-28	Vol 1 Issue 4 - Humanism and the Practical Utopians		perspective/vol-1-issue-4-humanism-and-the-practical-utopians.html
+Perspective	Perspective	2018-10-15	Vol 1 Issue 13 - The Practopian Principle of Imperfection		perspective/vol-1-issue-13-the-practopian-principle-of-imperfection.html
+Perspective	Perspective	2019-01-15	Vol 1 Issue 22 - Have We Passed The Point of Maximum Useful Tech?		perspective/vol-1-issue-22-have-we-passed-the-point-of-maximum-useful-tech.html
+Perspective	Perspective	2018-08-22	Vol 1 Issue 8 - Cultural Evolution		perspective/vol-1-issue-8-cultural-evolution.html
+Perspective	Perspective	2018-07-24	Vol 1 Issue 6 - The Practopian Take on Value Creation		perspective/vol-1-issue-6-the-practopian-take-on-value-creation.html

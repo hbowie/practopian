@@ -1,0 +1,7 @@
+Section	Item Type	Date	Title	Author	Link	Tags	Teaser
+Appreciation	Appreciation	2018-10-13	Fruitcakes	Herb Bowie	appreciation/fruitcakes.html	diversity, humanism, imperfection, individuals, religion	I've always considered this to be Jimmy Buffet's masterwork. The musical backing is infectious, swaying and danceable, and the background vocals add depth. The words are cleverly crafted, and perfectly suited to Buffett's conversational, wisecracking delivery.
+
+Appreciation	Appreciation	2018-08-15	Will the Circle be Unbroken	Herb Bowie	appreciation/will-the-circle-be-unbroken.html	humanism, parenthood, religion	It's certainly fair to categorize this song as a religious one, and more particularly as a Christian song, and yet, even though I consider myself to be a non-believer, my lack of faith doesn't diminish my appreciation for this song in the slightest: if anything, I think it increases it. For unlike many songs that we could put in this category, this song does not seek to proselytize, or ask us to accept any particular religious teaching. 
+
+Appreciation	Appreciation	2018-09-21	The Village Green Preservation Society	Herb Bowie	appreciation/the-village-green-preservation-society.html	humanism, society	This is a rather amazing song by The Kinks, first released in 1968. I loved this song from the moment I first heard it, but my appreciation for it has only grown over the years. 
+

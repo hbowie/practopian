@@ -42,17 +42,11 @@ A good place to start is with [The Amsterdam Declaration][amsterdam], which can 
 Following is the Declaration, with parenthetical links to show correlations with the corresponding Practopian beliefs. 
 
 1. Humanism is ethical. It affirms the worth, dignity and autonomy ([liberty][]) of the individual ([individuals][]) and the right of every human being to the greatest possible freedom compatible with the rights of others. Humanists have a duty of care to all of humanity including future generations ([mission][]). Humanists believe that morality is an intrinsic part of human nature based on understanding and a concern for others ([connection][]), needing no external sanction.
-
 2. Humanism is rational ([critical thinking][]). It seeks to use science ([science]) creatively, not destructively. Humanists believe that the solutions to the world’s problems lie in human thought and action ([individuals][]) rather than divine intervention. Humanism advocates the application of the methods of science and free inquiry to the problems of human welfare. But Humanists also believe that the application of science and technology must be tempered by human values. Science gives us the means but human values must propose the ends ([balance][], [integral][]).
-
 3. Humanism supports democracy ([democracy][]) and human rights ([equality][]) . Humanism aims at the fullest possible development of every human being ([education][]). It holds that democracy and human development are matters of right. The principles of democracy and human rights can be applied to many human relationships and are not restricted to methods of government.
-
 4. Humanism insists that personal liberty must be combined with social responsibility ([society][]). Humanism ventures to build a world on the idea of the free person responsible to society, and recognizes our dependence on and responsibility for the natural world ([about the principles and values][about]). Humanism is undogmatic, imposing no creed upon its adherents ([written word][]). It is thus committed to education ([education][]) free from indoctrination.
-
 5. Humanism is a response to the widespread demand for an alternative to dogmatic religion. The world’s major religions claim to be based on revelations fixed for all time, and many seek to impose their world-views on all of humanity. Humanism recognizes that reliable knowledge of the world and ourselves arises through a continuing process of observation, evaluation and revision ([science][], [critical thinking][]).
-
 6. Humanism values artistic creativity and imagination and recognizes the transforming power of art ([art and storytelling][art]). Humanism affirms the importance of literature, music, and the visual and performing arts for personal development and fulfillment.
-
 7. Humanism is a lifestance aiming at the maximum possible fulfillment through the cultivation of ethical and creative living and offers an ethical and rational means of addressing the challenges of our times. Humanism can be a way of life for everyone everywhere.
 
 So there you have it: seven concise paragraphs summarizing the basic tenets of Humanism. I certainly see enough correlation here that I would have no problem saying that The Practical Utopian is a Humanist organization. 

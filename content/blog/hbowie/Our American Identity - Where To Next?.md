@@ -59,23 +59,14 @@ But whether we wish to heartily embrace this defining national trait of being on
 Thinking along these lines, let me offer a few suggestions that we may wish to keep in mind as we begin preparations for future political debates and contests. 
 
 1. We Americans tend to prefer liberties over obligations and restraints;
-
 2. We tend to favor individual liberties over governmental rule, local rule over federal control, and national power over global or international authority; 
-
 3. We tend to trust the judgment and discretion of individuals more than the mechanical application of rigid rules;
-
 4. We will come together in national movements when our leaders can convince us that our nation as a whole is on its way to somewhere better...
-
 5. However we tend to lose patience with such movements if they end up calcifying into institutional bureaucracies;
-
 6. As much as we say we love "family values," what we really value as a family unit is a couple, with children, with one of the adults (traditionally the male) acting as the powerful, adventurous leader;
-
 7. We can be motivated by fear of individuals and groups who are threatening our journey, but it is hard to bring us together around fear of a situation, fear of the future, or fear of the destination to which we are headed;
-
 8. We realize that our willingness to undertake a journey to somewhere better entails risks of loss as well as chances for rewards;
-
 9. We have no desire to lock ourselves into systems that promise uniform outcomes for all;
-
 10. We do see our country and ourselves as different in significant ways from others, and different in ways deserving of a chance at something better, for ourselves and our children. 
 
 While I have no interest today in advocating for any particular governmental policy, party or candidate, it seems obvious to me that all of these factors have tended to work in favor of the Republicans in recent elections. 

@@ -6,9 +6,11 @@
     <lastmod>=$today&yyyy-MM-dd$=</lastmod>
   </url>
 <?nextrec?>
+<?if "=$filename-wo-ext$=" ?>
   <url>
     <loc>https://practopian.org/=$path$=/=$filename-wo-ext&f$=.html</loc>
     <lastmod>=$lastmoddate$=</lastmod>
   </url>
+<?endif?>
 <?loop?>
 </urlset> 

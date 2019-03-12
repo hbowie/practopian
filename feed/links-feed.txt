@@ -1,0 +1,19 @@
+Section	Item Type	Date	Title	Link	Tags	Teaser
+Links	Link	2018-06-16	The Long Now Foundation	links/the-long-now-foundation.html	sustainability	The Long Now Foundation was established in 01996 to foster long-term thinking and responsibility in the framework of the next 10,000 years. 
+
+Links	Link	2018-05-20	Institute for New Economic Thinking	links/institute-for-new-economic-thinking.html	systemic	"We advance sound economic ideas to better serve humanity."
+
+Links	Link	2018-03-27	Population Reference Bureau	links/population-reference-bureau.html	population, sustainability	Population Reference Bureau works to improve the well-being of people everywhere by promoting informed decisions about population, health, and the environment. 
+
+Links	Link	2017-02-04	Inequality.org	links/inequality.org.html	equality	The Web’s leading portal to data, analysis, and commentary on income and wealth inequality.
+
+Links	Link	2017-03-06	Global Footprint Network	links/global-footprint-network.html	sustainability	Advancing the science of sustainability, the Global Footprint Network is changing how the world manages its natural resources. 
+
+Links	Link	2017-02-21	The Nordic Theory of Everything: In Search of a Better Life	links/the-nordic-theory-of-everything-in-search-of-a-better-life.html	cultural evolution, liberty	This 2016 book by Finnish-journalist-turned-American-citizen Anu Partanen offers a comprehensive comparison of American culture and governmental policies vs. those of the Nordic nations. 
+
+Links	Link	2017-02-20	Sapiens: A Brief History of Humankind	links/sapiens-a-brief-history-of-humankind.html	cultural evolution, humanism	From a renowned historian comes a groundbreaking narrative of humanity's creation and evolution -- a # 1 international bestseller -- that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be "human."
+
+Links	Link	2017-01-31	The Left Hand of Darkness	links/the-left-hand-of-darkness.html	art, cultural evolution	This is a book about an envoy from a foreign land, and a mad king;  power-hungry regents and political schemers; the meaning of patriotism and the making of a traitor; about bravery and endurance; about taking in strangers and showing them kindness; about borders and border-crossings; about recognizing our common humanity, irrespective of gender or place of origin or kinship bond; about choosing progress for our fellow humans over personal gain or safety; about darkness and light; about forging a bond with all of humanity through the intimate knowing of one other human who is irredeemably different from ourselves; about waiting for a chance and then taking it. In other words, it is the perfect book for our times.
+
+Links	Link	2018-04-15	Information is Beautiful - Rhetological Fallacies	links/information-is-beautiful-rhetological-fallacies.html	critical thinking	A complete interactive list of errors and manipulative tactics often used to try to persuade us of things that aren't necessarily true, with examples. 
+

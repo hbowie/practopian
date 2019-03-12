@@ -83,17 +83,11 @@ Of course President Trump and the Republicans have made themselves the poster ch
 But the solutions to these problems, of course, start with us, the voters. We can start today by pledging to take the following actions on a regular basis:
 
 1. Be skeptical of any leaders who claim the facts are all on their side, and who resort to name-calling to characterize their opposition. 
-
 2. Consult a variety of sources for information and opinions on an issue before reaching your own conclusion. 
-
 3. Stay open to new facts and analysis, and be willing to change your mind. 
-
 4. Avoid extremism on any issue, and respect a need to compromise when it legitimately arises. 
-
 5. Judge your leaders by their results, not by their poses, or by their ability to demean their political opponents. 
-
 6. Reward leaders who can speak sensibly and authentically based on their own reasoning, and avoid those who seem to be simply spouting the party line or reciting words from others without any critical thought of their own. 
-
 7. Invest some reasonable amount of time researching the important issues of the day, and use your entertainment time for sports or music or works of fiction. Don't mix entertainment with politics. 
 
 If you find yourself having difficulty following through on this pledge, then look for triggers in your environment that start you down the slippery slope to unwanted behavior, and either systematically eliminate the triggers, or reprogram your reactions to them. 

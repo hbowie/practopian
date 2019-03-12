@@ -1,0 +1,21 @@
+Section	Item Type	Date	Title	Author	Link	Tags	Image	Alt	Teaser
+Basics	Basic Info	2018-10-11	Imperfection	Herb Bowie	basics/imperfection.html	imperfection			Belief in imperfection as a fundamental principle may seem like an odd concept but, in fact, it is an essential part of our thinking. Let's look at some of the reasoning behind this principle. 
+
+Basics	Basic Info	2019-03-04	Science	Herb Bowie	basics/science.html	science	science.jpg		A belief in science is one of the core Practopian principles. We embrace science as one way of understanding the universe in which we live, and we accept toolmaking (aka engineering) as one means of improving the human condition.
+
+Basics	Basic Info	2018-10-26	An Integral Approach	Herb Bowie	basics/an-integral-approach.html	integral			A belief in an integral approach is one of the core Practopian principles. At its most basic, this principle simply means that people can see things from different perspectives, and that often no one way of seeing something is the "right" or only way.
+
+Basics	Basic Info	2019-01-26	More Love	Herb Bowie	basics/more-love.html	love	love.jpg	Heart made from hands	For me, love is an elemental human feeling that helps to bind us to one another, and to the world around us. It is a feeling of care and appreciation for, and attachment to, people and things of value that have an independent existence outside of ourselves. And while love may not be "*all* we need," it does seem to be an essential starting point for everything else.
+
+Basics	Basic Info	2018-11-26	The Importance of Mission	Herb Bowie	basics/the-importance-of-mission.html	mission	mission.jpg	Compass pointing to Mission	The dictionary on my Mac defines mission as "a strongly felt aim, ambition, or calling."
+
+Basics	Basic Info	2018-08-13	Cultural Evolution	Herb Bowie	basics/cultural-evolution.html	cultural evolution			A belief in cultural evolution is one of the core Practopian principles. But what do we mean by human culture? And by its evolution? Let's dive a little deeper to uncover some of the significant ideas lurking behind this simple statement.
+
+Basics	Basic Info	2018-05-22	Evolution and Its Implications	Herb Bowie	basics/evolution-and-its-implications.html	cultural evolution, evolution			A belief in evolution is one of the core Practopian principles. But to say that we believe in evolution means quite a bit more to us than simply a denial of creationism. We also mean to imply that we believe in natural selection as a process for improving things, including human culture. 
+
+Basics	Basic Info	2018-07-24	Value Creation	Herb Bowie	basics/value-creation.html	value creation			Many of the Practopian Core Beliefs will seem rather straightforward to most people: Liberty and Equality, for example, are fundamental human values that should sound familiar no matter what your background. The belief in the importance of Value Creation, on the other hand, may be puzzling to many. What do we mean by this phrase, and why does it deserve such focus? Let me try to explain.  
+
+Basics	Basic Info	2018-12-10	The Value of Individuals	Herb Bowie	basics/the-value-of-individuals.html	individuals	individuals.jpg	Individual dancing	A belief in the value of individuals is one of the core Practopian principles.
+
+Basics	Basic Info	2018-11-12	The Written Word in the 21st Century	Herb Bowie	basics/the-written-word-in-the-21st-century.html	written word			Whether we are talking about the *King James Bible*, *The Catcher in the Rye*, *On the Origin of Species*, or *Wikipedia*, we recognize that writing things down is an important means of preserving human knowledge and wisdom, and that both writing and reading are invaluable human activities. 
+

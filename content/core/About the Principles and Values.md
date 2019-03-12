@@ -13,13 +13,9 @@ It is because of the foundational nature of these beliefs, their transparent aut
 The Principles and Values should be:
 
 1. Concise -- We'd like these lists to be as short as possible, we'd like to state each belief in no more than a sentence or two, and we want the language to be relatively simple and clear, at least in terms of our basic intentions. 
-
 2. Foundational -- We want these to be our most fundamental beliefs. Other beliefs will build on these, so we want a firm foundation. This means that, if another belief can be reasonably derived from one or more of these Principles and Values, then that other belief should not itself be on one of these lists. 
-
 3. Distinct -- We want to minimize overlap between any of these principles and values. 
-
 4. Consistent -- None of these principles and values should contradict each other. 
-
 5. Helpful -- We want to be able to refer back to these in order to help us have more productive conversations about tough topics.  
 
 ## What about Religion, God and Spirit?
@@ -27,9 +23,7 @@ The Principles and Values should be:
 The Practopian Principles and Values intentionally avoid any mention of religion, God, or spirit, for several reasons.
 
 1. People use these terms in so many different ways, to mean so many different things, that it would be difficult to offer any simple, useful generalizations concerning them. 
-
 2. Use of these terms is not necessary in order to succinctly state any of our foundational beliefs. 
-
 3. These terms are frequently used -- either intentionally or accidentally -- in a way that encourages humans to belief in some external agent or entity that is responsible for our fate, and we want to be careful to avoid shifting responsibility for our future off of our own shoulders. 
 
 We have no intention, however, to discount or demean or disavow any particular religious text, practice or belief -- so long as these are viewed and used in ways that are compatible and consistent with our Principles and Values. 

@@ -40,11 +40,8 @@ We see this negative environmental impact as the ultimate [tragedy of the common
 There are four separate sorts of human activities that are all contributing to a worsening of our current state:
 
 1. Depletion of non-renewable natural resources, such as oil and helium. 
-
 2. Overuse and depletion of renewable natural resources, such as groundwater. 
-
 3. Global economic development, which tends to increase per-capita resource usage and pollution output. 
-
 4. Increasing human population levels. 
 
 When we look realistically at our current conditions, and then at these multiple sorts of human activities all working to make things even worse, we see the biggest crisis that humanity has yet faced. 
@@ -58,9 +55,7 @@ We must certainly do our best in this regard, but we should also remember the wo
 When we look at the four types of activities above, and what we can do to influence them in a positive direction, we see several types of actions we can take, some of them easier than others. 
 
 1. Reduce consumption per capita (through mass transit, shared resource usage, denser housing, etc.).
-
 2. Invent and deploy better systems and technologies to allow us to reduce the environmental impacts of consumption (better recycling, renewable energy, etc.).
-
 3. Reduce human population levels. 
 
 When we look at the broad sweep of human history, we find that, while we are good at inventing new systems and technologies, we seem to invariably use these to increase the numbers of people on Earth, even when such increases result in a poorer quality of life for most of those people. 
